@@ -1,0 +1,11 @@
+.container {
+  scroll-snap-type: y mandatory;
+}
+.user {
+  background-color: #e9ebee;
+}
+.user-profiles {
+  border-right: 1px solid lightgray;
+  scroll-snap-align: start;
+  background-color: white;
+}

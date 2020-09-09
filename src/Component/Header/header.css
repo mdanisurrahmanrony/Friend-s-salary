@@ -1,0 +1,24 @@
+.header {
+  background-color: rgb(109, 161, 230);
+  padding: 10px 0;
+}
+.header-logo img {
+  height: 50px;
+}
+
+.header nav a {
+  text-decoration: none;
+  margin-right: 20px;
+  color: white;
+  font-size: 20px;
+}
+.header nav a:hover {
+  color: gold;
+}
+.container {
+  max-width: 1400px !important;
+}
+
+.btn-go {
+  width: 50px !important;
+}

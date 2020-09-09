@@ -1,0 +1,40 @@
+.profile {
+  padding: 0px 0;
+  border: 1px solid lightgray;
+  margin: 20px 0;
+  box-shadow: 5px 5px 10px rgb(192, 218, 226);
+  border-radius: 5px;
+}
+.profile img {
+  box-shadow: 3px 3px 5px lightgray;
+  border-radius: 5px;
+  height: 100%;
+  width: 100%;
+}
+.profile .col-md-4 {
+  padding: 0;
+}
+
+.user-name {
+  color: rgb(109, 161, 230);
+  font-weight: 400;
+}
+.user-mail {
+  font-weight: 400;
+}
+.user-phone {
+  font-weight: 400;
+}
+
+.add-friend {
+  background-color: rgb(109, 161, 230);
+  color: white;
+  border: 1px solid;
+  width: 150px;
+  height: 40px;
+  border-radius: 5px;
+}
+
+.add-friend:hover {
+  background-color: rgb(13, 130, 207);
+}
